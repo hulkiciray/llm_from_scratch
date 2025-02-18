@@ -11,7 +11,7 @@ In this chapter specifically, we will design end-to-end classification fine-tuni
 - Preparing the **dataset**
 - Creating **data loaders**
 - Initializing a **model with pretrained weights**
-- Adding a **classification head**
+- Adding a **classification head**. (Important information here is after adding the classification head, do not need to freeze the other part of the pretrained model meaning that we make all layers nontrainable.)
 - Calculating the classification **loss** and accuracy
 - **Fine-tuning the model** on supervised data
 - **Using the LLM** as a spam classifier
