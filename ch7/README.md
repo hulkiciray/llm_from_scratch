@@ -1,6 +1,7 @@
 # Chapter 7: Fine-tuning to Follow Instructions
 This sesssion covers another common fine-tuning method called instruction fine-tuning.
-The purpose of this method is to <span style="color:orange;">improve conversational tasks</span>. The main technique behind that technology is instruction fine-tuning.
+The purpose of this method is to <span style="color:orange;">improve conversational tasks</span>.
+The main technique behind that technology is instruction fine-tuning.
 
 ### Topics will be as follow:
 - **<span style="color:green;">Introduction</span>** to instruction fine-tuning
