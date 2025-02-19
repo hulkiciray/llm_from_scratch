@@ -7,7 +7,7 @@ This chapter we will dive deeper into the training phase of LLMs. The topics we 
   - Calculating the text generation loss
   - Calculating the training and validation set losses
 - Training an LLM
-- Decoding strategies to control rendomness
+- Decoding strategies to control randomness
   - Temperature scaling
   - Top-k sampling
   - Modifying the text generation function
