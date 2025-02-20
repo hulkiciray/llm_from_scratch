@@ -12,10 +12,6 @@ The main technique behind that technology is instruction fine-tuning.
 - **<span style="color:green;">Fine-tuning</span>** the LLM on instruction data
 - **<span style="color:green;">Extracting and saving responses</span>**
 - **<span style="color:green;">Evaluating</span>** the fine-tuned LLM
-- Conclusions
-  - What's next?
-  - Staying up-to-date in a fast moving field
-  - Final words
 
 ### Summary
 - ... 
